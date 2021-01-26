@@ -1,8 +1,8 @@
 / * style.css * /  
-* {
+"* {
   box-sizing: border-box;
 }
-
+"
 /* Create three columns of equal width */
 ul {
   float: left;
